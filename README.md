@@ -1,8 +1,9 @@
-# THE IMPACT OF CLIMATE CHANGE WITH FREQUENT EXTREME WEATHER EVENTS IN NOVA SCOTIA
+# THE IMPACT OF CLIMATE CHANGE ON FARMING IN NOVA SCOTIA
 
-*By: Patricia Amoah*
+*A Decision Intelligence Analysis by Patricia Amoah*
+
 ## EXECUTIVE SUMMARY
-Climate change is significantly threats to coastal communities, ecosystems, and infrastructure. This study highlights on climate change in nova scotia its key impact and how the issue of climate change is been addressed in Nova Scotia, including increased frequency and intensity of extreme weather events, coastal erosion, and changes in biodiversity. 
+Climate change poses significant challenges to Nova Scotia's agricultural sector, impacting crop yields, farm operations, and economic stability. Farmers are experiencing more frequent extreme weather events, including droughts, heavy rainfall, and temperature fluctuations, which affect soil health, water availability, and crop productivity. In response, the provincial government and various organizations have initiated projects to enhance climate resilience in agriculture, such as funding climate adaptation coordinators and supporting wetland restoration projects. 
 
 [Read detailed background information here](Background.md)
 
