@@ -21,32 +21,38 @@ Farming in Nova Scotia faces a growing list of climate-related challenges:
   
 These realities highlight the urgent need for adaptive strategies, sustainable practices, and informed policy responses.
 
-
-Importance of the Study
+## Importance of the Study
 This study is critical for several reasons:
-Food security: Local food production is vital for the province's food system resilience.
-Economic impact: Agriculture contributes significantly to Nova Scotia's economy and rural employment.
-Policy guidance: Understanding climate impacts helps shape effective government support and climate-resilient policies.
-Sustainability: It informs the shift toward sustainable farming practices, reducing long-term environmental degradation.
+1. Food security: Local food production is vital for the province's food system resilience.
+   
+2. Economic impact: Agriculture contributes significantly to Nova Scotia's economy and rural employment.
+   
+3. Policy guidance: Understanding climate impacts helps shape effective government support and climate-resilient policies.
+   
+4. Sustainability: It informs the shift toward sustainable farming practices, reducing long-term environmental degradation.
+   
 By focusing on Nova Scotia specifically, this study helps bridge a regional knowledge gap and supports locally relevant solutions.
-Potential Datasets
+
+## Potential Datasets
 Some potential datasets will include:
-NS Climate Change Projections (CMIP5) 
+* Nova Scotia Climate Change Projections (CMIP5) 
 Provides long-term climate model projections (e.g. temperature and precipitation) for Nova Scotia and its counties, helping assess future climate risks for agriculture.
 
-Nova Scotia Farm Registration by Commodity 
+* Nova Scotia Farm Registration by Commodity 
 Offers data on the number and types of farms registered in Nova Scotia, useful for understanding the scale and distribution of agricultural activity.
 
-Canadian Drought Monitor 
+* Canadian Drought Monitor 
 A national tool that tracks and reports drought conditions across Canada monthly, offering insight into water stress affecting Nova Scotia farms.
 
-Historical Weather & Climate Data 
+* Historical Weather & Climate Data 
 Contains detailed records of temperature, precipitation, and other climate variables over time—ideal for trend analysis in agricultural research.
 
-Greenhouse Gas (GHG) Emissions from Agriculture 
+* GreenHouse Gas (GHG) Emissions from Agriculture 
 Reports emissions related to farming practices, useful for understanding agriculture's contribution to climate change and mitigation opportunities.
 
-
 These datasets can support trend analysis, risk assessment, and evidence-based recommendations for adaptation strategies.
-Conclusion
+
+## Conclusion
 Climate change is already altering the landscape of farming in Nova Scotia, with profound effects on environmental, economic, and social systems. Understanding these impacts—through clear data, community engagement, and focused research—is essential for ensuring the long-term resilience and viability of the province’s agricultural sector. This study serves as a call to action for policymakers, farmers, and researchers to work collaboratively toward a more climate-resilient agricultural future.
+
+## References
