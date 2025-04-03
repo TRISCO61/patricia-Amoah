@@ -27,16 +27,16 @@ Climate change poses significant challenges to Nova Scotia's agricultural sector
 
 To assess and guide the adaptation efforts in Nova Scotia's agriculture sector, the following KPIs are essential:
 
-1. Crop Yield Variability: Monitoring changes in the yields of key crops to evaluate the impact of climate conditions and the effectiveness of adaptation strategies.
+1. **Crop Yield Variability:** Monitoring changes in the yields of key crops to evaluate the impact of climate conditions and the effectiveness of adaptation strategies.
    
-2. Soil Health Metrics: Assessing soil organic matter content, erosion rates, and moisture levels to understand soil resilience under changing climatic conditions.
+2. **Soil Health Metrics:** Assessing soil organic matter content, erosion rates, and moisture levels to understand soil resilience under changing climatic conditions.
    
-3. Water Usage Efficiency: Measuring the efficiency of water use in irrigation practices to ensure sustainable water management amid variable precipitation patterns.
+3. **Water Usage Efficiency:** Measuring the efficiency of water use in irrigation practices to ensure sustainable water management amid variable precipitation patterns.
    
-4. Adoption Rate of Climate-Resilient Practices: Tracking the implementation of practices such as crop diversification, cover cropping, and conservation tillage that enhance resilience to climate impacts.
+4. **Adoption Rate of Climate-Resilient Practices:** Tracking the implementation of practices such as crop diversification, cover cropping, and conservation tillage that enhance resilience to climate impacts.
    
-5. Greenhouse Gas Emissions from Agriculture: Quantifying emissions to identify opportunities for reduction and to monitor progress toward sustainability goals.
+5. **Greenhouse Gas Emissions from Agriculture:** Quantifying emissions to identify opportunities for reduction and to monitor progress toward sustainability goals.
    
-6. Economic Impact Assessments: Evaluating the financial implications of climate change on farming operations, including costs related to crop losses, infrastructure damage, and adaptation investments.
+6. **Economic Impact Assessments:** Evaluating the financial implications of climate change on farming operations, including costs related to crop losses, infrastructure damage, and adaptation investments.
 
 Utilizing these KPIs enables stakeholders to make informed decisions, develop effective adaptation strategies, and enhance the resilience of Nova Scotia's agricultural sector in the face of climate change.
