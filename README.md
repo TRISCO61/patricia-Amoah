@@ -8,7 +8,7 @@
 ## Executive Summary
 Climate change poses significant challenges to Nova Scotia's agricultural sector, impacting crop yields, farm operations, and economic stability. Farmers are experiencing more frequent extreme weather events, including droughts, heavy rainfall, and temperature fluctuations, which affect soil health, water availability, and crop productivity. In response, the provincial government and various organizations have initiated projects to enhance climate resilience in agriculture, such as funding climate adaptation coordinators and supporting wetland restoration projects. 
 
-[Read detailed background information here](Background.md)
+[Read detailed background information here](https://github.com/TRISCO61/patricia-Amoah/blob/main/background.md)
 
 ## Research Objectives
 * To examine the effects of climate change on agricultural practices in Nova Scotia, with a focus on temperature shifts, precipitation patterns, and extreme weather events.
