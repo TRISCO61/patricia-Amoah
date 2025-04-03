@@ -1,48 +1,29 @@
-# THE IMPACT OF CLIMATE CHANGE ON FARMING IN NOVA SCOTIA
-
-*A Decision Intelligence Analysis by Patricia Amoah*
-
-## EXECUTIVE SUMMARY
+Executive Summary
 Climate change poses significant challenges to Nova Scotia's agricultural sector, impacting crop yields, farm operations, and economic stability. Farmers are experiencing more frequent extreme weather events, including droughts, heavy rainfall, and temperature fluctuations, which affect soil health, water availability, and crop productivity. In response, the provincial government and various organizations have initiated projects to enhance climate resilience in agriculture, such as funding climate adaptation coordinators and supporting wetland restoration projects. 
+Research Objectives
+To examine the effects of climate change on agricultural practices in Nova Scotia, with a focus on temperature shifts, precipitation patterns, and extreme weather events.
 
-[Read detailed background information here](Background.md)
+To identify the specific challenges faced by farmers in Nova Scotia due to climate change, including soil degradation, water management issues, and pest and disease outbreaks.
 
+To assess the socio-economic implications of climate-related disruptions on rural communities, including impacts on food security, livelihoods, and market stability.
 
-In Nova Scotia, climate change is leading to more frequent and intense extreme weather events, including stronger storms, coastal flooding, wildfires, heatwaves, and heavier rainfall, primarily due to rising sea levels, warmer ocean temperatures, and altered precipitation patterns, putting coastal communities and infrastructure at significant risk; this is further compounded by the province's long coastline, making it particularly vulnerable to storm surges and erosion. 
+To evaluate existing adaptive strategies and policy responses aimed at mitigating the effects of climate change on agriculture in the region.
 
-## Key Performance indicators
-<mark>These aren't measurable, we need a name of a specific thing that is being measured, for example, for "Heatwaves", just indicate **Average Monthly Temperature** and then we can plot it over time, comparing year over year.</mark>
+To explore and recommend sustainable farming practices and data-driven approaches for improving resilience in Nova Scotia’s agricultural sector.
 
-<mark>Let's simplify our study here, and just look at temperature, wind, and precipitation from 1840-present.  Consider this as a data source, starting with one station, and if that looks good, add more stations for regional variation - for example we might find Cape Breton is getting more windy over time:  https://climate.weather.gc.ca/historical_data/search_historic_data_stations_e.html?searchType=stnProv&timeframe=1&lstProvince=NS&optLimit=yearRange&StartYear=1840&EndYear=2018&Year=2018&Month=11&Day=1&selRowPerPage=25&txtCentralLatMin=0&txtCentralLatSec=0&txtCentralLongMin=0&txtCentralLongSec=0&startRow=76 </mark>
-
-### Coastal Flooding:<mark>Consider removing from the study</mark>
-Rising sea levels combined with storm surges from stronger storms are causing increased coastal flooding, particularly in vulnerable coastal areas. 
-
-### Erosion:<mark>Consider removing from the study</mark>
-Coastal erosion is accelerating due to rising sea levels and increased wave action from stronger storms, impacting property and natural ecosystems. 
- 
-### Intensified Storms:
-Hurricanes and other tropical storms are expected to become more frequent and intense due to warmer ocean temperatures, leading to heavier rainfall and stronger winds. 
-
-### Heatwaves:
-Warmer temperatures are resulting in more frequent and severe heatwaves, posing health risks to vulnerable populations. 
-
-### Wildfires:<mark>Consider removing from the study</mark>
-Increased dry conditions due to warmer temperatures can contribute to more frequent and severe wildfires. 
-
-### Changes in Precipitation:
-More precipitation is falling as rain instead of snow, leading to potential flooding events. 
-
-### Impact on Marine Ecosystems:<mark>Consider removing from the study</mark>
-Warmer ocean temperatures and increased acidity can negatively affect marine life and fisheries. 
-
-How Nova Scotia is addressing these impacts:
-•	Climate Change Adaptation Plans:
-The Nova Scotia government has developed climate change adaptation plans to address the impacts of extreme weather events, including coastal protection strategies and community preparedness initiatives.
-•	Coastal Development Regulations:
-Implementing stricter regulations on coastal development to reduce vulnerability to flooding and erosion.
-•	Infrastructure Upgrades:
-Investing in infrastructure improvements to better withstand extreme weather events, such as flood defenses and resilient building codes.
-•	Public Awareness Campaigns:
-
-
+To utilize regional climate and agricultural datasets for conducting risk assessments and informing evidence-based policy and farming decisions.
+Key Performance Indicators (KPIs)
+To assess and guide the adaptation efforts in Nova Scotia's agriculture sector, the following KPIs are essential:
+Crop Yield Variability: Monitoring changes in the yields of key crops to evaluate the impact of climate conditions and the effectiveness of adaptation strategies.
+Soil Health Metrics: Assessing soil organic matter content, erosion rates, and moisture levels to understand soil resilience under changing climatic conditions.
+Water Usage Efficiency: Measuring the efficiency of water use in irrigation practices to ensure sustainable water management amid variable precipitation patterns.
+Adoption Rate of Climate-Resilient Practices: Tracking the implementation of practices such as crop diversification, cover cropping, and conservation tillage that enhance resilience to climate impacts.
+Greenhouse Gas Emissions from Agriculture: Quantifying emissions to identify opportunities for reduction and to monitor progress toward sustainability goals. 
+Economic Impact Assessments: Evaluating the financial implications of climate change on farming operations, including costs related to crop losses, infrastructure damage, and adaptation investments.
+Available Datasets
+Several datasets are available to support the monitoring of these KPIs:
+Nova Scotia Climate Change Projections (CMIP5): Provides climate projections for the province and its counties, useful for assessing future climate scenarios. 
+Farm Registration by Commodity: Offers data on farm registrations categorized by commodity, aiding in understanding the distribution and scale of various agricultural activities. 
+Canadian Drought Monitor: Delivers monthly assessments of drought conditions across Canada, including Nova Scotia, which is crucial for evaluating water availability and planning. 
+Historical Climate Data: Environment and Climate Change Canada provides access to historical climate data, supporting analyses of climate trends and their correlation with agricultural outputs. 
+Utilizing these KPIs and datasets enables stakeholders to make informed decisions, develop effective adaptation strategies, and enhance the resilience of Nova Scotia's agricultural sector in the face of climate change.
