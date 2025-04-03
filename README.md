@@ -2,7 +2,7 @@
 
 *By: Patricia Amoah*
 ## EXECUTIVE SUMMARY
-Climate change is significantly threats to coastal communities, ecosystems, and infrastructure. This study highlights on climate change in nova scotia its key impact and how the issue of climate change is been addressed in Nova Scotia, including increased frequency and intensity of extreme weather events, coastal erosion, and changes in biodiversity. ~~The research also explores the potential economic and social consequences of these changes.~~<mark>too ambitious</mark>
+Climate change is significantly threats to coastal communities, ecosystems, and infrastructure. This study highlights on climate change in nova scotia its key impact and how the issue of climate change is been addressed in Nova Scotia, including increased frequency and intensity of extreme weather events, coastal erosion, and changes in biodiversity. 
 
 [Read detailed background information here](Background.md)
 
